@@ -1,0 +1,8 @@
+{
+  "name": "TreecotageNew",
+  "version": "1.0.0",
+  "dependencies": {
+    "@angular/cli": "^14.2.3",
+    "nodemon": "^2.0.20"
+  }
+}
